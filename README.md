@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![husless' github status](https://github-readme-stats.vercel.app/api?username=husless&show_icons=true&theme=nord)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husless&&layout=compact&theme=nord&exclude_repo=husless.github.io,husless,solomon,contourf&hide=javascript,html,css)](https://github.com/husless)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husless&&layout=compact&theme=nord&exclude_repo=husless.github.io,husless,learning-scrapy,FlaskLearning,GRiFFS&hide=javascript,html,css)](https://github.com/husless)
 
 
 <!--

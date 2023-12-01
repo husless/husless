@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on - C++
 - 🌱 I’m currently learning - Rust
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husless&count_private=true&show_icons=true&border_radius=20&include_all_commits=true&line_height=21&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=husless&count_private=true&show_icons=true&theme=nord)
 
-![GitHub Trophy](https://streak-stats.demolab.com?user=husless&theme=nord&hide_border=true&border_radius=20&background=20212C)
 
+<!--
+![GitHub Streak](https://streak-stats.demolab.com?user=husless&theme=nord&hide_border=true&border_radius=20&background=20212C)
+-->
 ![Husless Github Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husless&theme=nord_dark)
 
 ### Coding Languages

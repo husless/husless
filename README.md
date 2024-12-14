@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ### Coding Languages
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Rust](https://img.shields.io/badge/rust-F54A2A?style=for-the-badge&logo=rust&logoColor=white)
 - ![CUDA](https://img.shields.io/badge/cuda-%23000000.svg?style=for-the-badge&logo=nvidia&logoColor=green)
+- ![Rust](https://img.shields.io/badge/rust-F54A2A?style=for-the-badge&logo=rust&logoColor=white)
 - ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 - ![Zig](https://img.shields.io/badge/zig-%23ED8B00.svg?style=for-the-badge&logo=zig&logoColor=white)
 
